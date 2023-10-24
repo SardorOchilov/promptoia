@@ -1,0 +1,2 @@
+# promptoia
+Learn NextJs
