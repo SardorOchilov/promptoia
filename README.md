@@ -1,2 +1,4 @@
 # promptoia
-Learn NextJs
+# Learn NextJs
+
+# Here I showed my skill about NextJs
